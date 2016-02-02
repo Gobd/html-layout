@@ -1,0 +1,21 @@
+body {
+  background-color: #D2D2D2;
+  height: 100%;
+  margin: 0 0 0 0;
+}
+#top {
+  background-color: #3C3C3C;
+  height: 16vh;
+}
+#center {
+  margin: auto;
+  background-color: #ECECEC;
+  height: 74vh;
+  width: 70vh;
+}
+#bottom {
+  margin: auto;
+  background-color: #1F1F1F;
+  height: 8vh;
+  width: 70vh;
+}
