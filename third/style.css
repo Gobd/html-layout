@@ -1,0 +1,50 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+#one {
+  background-color: #D2D2D2;
+  width: 100vw;
+  height: 15vh;
+  display: flex;
+  padding-left: 20px;
+}
+#box {
+  align-self: center;
+  width: 100px;
+  height: 100px;
+  background-color: #4085DE;
+}
+#two {
+  padding: 25px;
+  background-color: #FFFFFF;
+  font-size: 120%;
+  width: 100vw;
+  height: 25vh;
+}
+#three {
+  background-color: #4085DE;
+  width: 100vw;
+  height: 15vh;
+}
+#four {
+  background-color: #46DFBA;
+  width: 100vw;
+  height: 15vh;
+}
+#five {
+  background-color: #AFE57B;
+  width: 100vw;
+  height: 15vh;
+}
+#six {
+  background-color: #F7E31B;
+  width: 100vw;
+  height: 15vh;
+}
