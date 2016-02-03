@@ -3,19 +3,19 @@ body {
 }
 #left {
   height: 100vh;
-  width: 33%;
+  width: calc(100%/3);
   background-color: #4085DE;
   float: left;
 }
 #middle {
   height: 100vh;
-  width: 34%;
+  width: calc(100%/3);
   background-color: #46DFBA;
   display: inline-block;
 }
 #right {
   height: 100vh;
-  width: 33%;
+  width: calc(100%/3);
   background-color: #AFE57B;
   float: right;
   position: relative;
